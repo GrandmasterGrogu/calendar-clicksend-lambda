@@ -1,1 +1,1 @@
-# google-calendar-clicksend-lambda
+calendar-clicksend-lambda
